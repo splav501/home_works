@@ -1,0 +1,24 @@
+Mercedes C-Class - Year: 2019, Engine volume: 3.0, Color: White, Wheel radius: R18
+Mercedes C-Class - Year: 2019, Engine volume: 3.0, Color: Silver, Wheel radius: R21
+Volkswagen C-Class - Year: 2021, Engine volume: 2.2, Color: Black, Interior: leather
+Volkswagen AMG GT - Year: 2021, Engine volume: 2.2, Color: Silver, Interior: canvas
+Mercedes G-Class - Year: 2020, Engine volume: 2.0, Color: Silver, Wheel radius: R21
+Volkswagen G-Class - Year: 2019, Engine volume: 3.0, Color: Black, Interior: leather
+Mercedes C-Class - Year: 2020, Engine volume: 2.0, Color: Black, Wheel radius: R19
+Volkswagen C-Class - Year: 2020, Engine volume: 2.0, Color: Silver, Interior: leather
+Mercedes E-Class - Year: 2019, Engine volume: 2.0, Color: White, Wheel radius: R21
+BMW 530 - Year: 2019, Engine volume: 2.0, Color: White, Spoiler type: crv-top
+Mercedes G-Class - Year: 2021, Engine volume: 2.2, Color: White, Wheel radius: R20
+Volkswagen E-Class - Year: 2021, Engine volume: 2.2, Color: White, Interior: canvas
+Volkswagen C-Class - Year: 2020, Engine volume: 3.0, Color: Black, Interior: canvas
+BMW 750 - Year: 2020, Engine volume: 2.0, Color: Silver, Spoiler type: fish-tale
+Volkswagen C-Class - Year: 2021, Engine volume: 3.0, Color: Silver, Interior: leather
+Volkswagen AMG GT - Year: 2021, Engine volume: 2.0, Color: White, Interior: leather
+BMW X5 - Year: 2020, Engine volume: 2.0, Color: Black, Spoiler type: crv-top
+BMW 750 - Year: 2021, Engine volume: 2.2, Color: Black, Spoiler type: wing
+BMW 750 - Year: 2019, Engine volume: 2.0, Color: White, Spoiler type: crv-top
+Volkswagen C-Class - Year: 2021, Engine volume: 3.0, Color: Silver, Interior: leather
+<<<<<<< Updated upstream
+ 
+=======
+>>>>>>> Stashed changes
