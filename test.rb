@@ -1,0 +1,1 @@
+cities_arr['washington', 'roma', 'paris', 'london', 'berlin'].each {|city| puts city}
