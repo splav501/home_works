@@ -18,7 +18,3 @@
 3
 1
 51
-<<<<<<< Updated upstream
- 
-=======
->>>>>>> Stashed changes

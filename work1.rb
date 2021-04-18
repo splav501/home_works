@@ -17,7 +17,4 @@ File.open('result.txt', 'w') do |file|
   file.write("Even sum: #{even_sum}\n")
   file.write("Odd sum: #{odd_sum}\n")
 end
-<<<<<<< Updated upstream
- 
-=======
->>>>>>> Stashed changes
+

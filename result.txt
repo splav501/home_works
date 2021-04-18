@@ -1,7 +1,3 @@
 Total sum: 15660
 Even sum: 876
 Odd sum: 14784
-<<<<<<< Updated upstream
- 
-=======
->>>>>>> Stashed changes
